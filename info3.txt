@@ -5,4 +5,4 @@ new update
 origin/dev2 changes
 Dev1 bugfix local
 Create rebase merge conflict with origin/dev2 branch
-
+Bug fix created on dev1 locally
