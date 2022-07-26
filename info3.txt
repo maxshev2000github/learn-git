@@ -1,3 +1,4 @@
+info3.txt starts here
 some important words
 
 cherry pick commit #1 (local cherrypick)
